@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.LLAW33012021S1TIAS1',
       version='0.0.1',
       description=('A docassemble extension.'),
-      long_description='inital commit for the css files 2.',
+      long_description='inital commit for the css files ',
       long_description_content_type='text/markdown',
       author='Aishwarya Manumari',
       author_email='manu0083@flinders.edu.au',
